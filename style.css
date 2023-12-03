@@ -1,0 +1,55 @@
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+h1{
+    color: #0866FF;
+}
+ section{
+    color:#0866FF;
+} 
+.mycl1 , .mycl2 , .mycl3{
+    color:#737373;
+}
+header>form>input{
+    background-color: #42b72a;
+    border: 0px;
+    border-radius: 5%;
+}
+.mycl2{
+    direction: rtl;
+    white-space:pre;
+}
+a{
+    text-decoration-line: none;
+    color: #0866FF;
+}
+.box1 , .box2 , .box3{
+    width: 90%;
+}
+.box1{
+    text-align: right;
+    /* background: #f4efef; */
+   margin-bottom: 2%;
+}
+.box2{
+    text-align: right;
+    margin-bottom: 2%;
+}
+.box3{
+    text-align: center;
+     font-size:125%;
+    color: white;
+    background-color: #0866FF;
+    border-radius: 5px;
+       border: #0866FF;
+}
+.s1{
+    direction: ltr;
+}
+section>div>small{
+    white-space: pre;
+}
+
